@@ -1,0 +1,59 @@
+.row1 {
+    background-color: darkgrey;
+}
+
+
+.wh {
+    color: white;
+}
+
+.gr {
+    color: darkturquoise;
+}
+
+.bgc {
+    background-color: gray;
+}
+
+.hn {
+    height: 50px;
+}
+
+.bgr {
+    background-color: mediumpurple;
+}
+
+.imc {}
+
+.mi {
+    margin-left: 250px;
+}
+
+.caroselheight {
+    height: 300px;
+}
+
+.font {
+
+    font-family: 'MontrealRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fcolour {
+    background-color: mediumpurple;
+}
+
+.line {
+    border-bottom: 2px solid;
+}
+
+a {
+    color: black;
+
+}
+
+a:hover {
+    color: lightgrey;
+
+}
